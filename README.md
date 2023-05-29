@@ -92,7 +92,7 @@ export default class MyComponent extends Component {
     return (
       <div>
         <NativeListener stopClick>
-          <a href="https://github.com/erikras/react-native-listener">Check out this awesome code!</a>
+          <a href="https://github.com/SuperDevMonk/react-native-listener">Check out this awesome code!</a>
         </NativeListener>
       </div>
       );
@@ -123,4 +123,3 @@ e.g. `onClickCapture`, `onKeyDownCapture`.
 
 ---
 
-Module written by [Erik Rasmussen](https://www.npmjs.org/~erikras) [@erikras](https://twitter.com/erikras)
